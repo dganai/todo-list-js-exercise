@@ -38,7 +38,7 @@ task1.logState();
 
 // console.log(tasks);
 
-
+/*
 // Mark a task as complete by setting the task's status in the `taskComplete` array to `true`
 function completeTask(taskIndex) {
   taskComplete[taskIndex] = true;
@@ -60,3 +60,4 @@ logTaskState(0); // Clean Cat Litter has not been completed
 completeTask(0);
 logTaskState(0); // Clean Cat Litter has been completed
 
+*/
